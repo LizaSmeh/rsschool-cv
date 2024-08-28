@@ -9,8 +9,9 @@
 * **GitHub:** [LizaSmeh](https://github.com/LizaSmeh)
 * **Telegram:** @LizaSmeh
 --- 
-## **About me**
-    > I am a novice developer. I find a great common language in the team. I like to learn new things and get to the bottom of the problem.
+## **About me** 
+ I am a novice developer. I find a great common language in the team. I like to learn new things and get to the bottom of the problem.
+
 ---
 ## **Skills**
 * HTML

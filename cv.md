@@ -1,4 +1,5 @@
-# **Elizaveta Smekhova**
+# **Elizaveta Smekhova** 
+![смайлик](https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-smailik-vesele-na-prozrachnom-fone-36.jpg)
 ---
 ## **Junior Frontend Developer**
 ---
@@ -10,7 +11,7 @@
 * **Telegram:** @LizaSmeh
 --- 
 ## **About me**
-I am a novice developer. I find a great common language in the team. I like to learn new things and get to the bottom of the problem.
+    > I am a novice developer. I find a great common language in the team. I like to learn new things and get to the bottom of the problem.
 ---
 ## **Skills**
 * HTML

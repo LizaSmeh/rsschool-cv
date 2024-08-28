@@ -1,5 +1,4 @@
 # **Elizaveta Smekhova** 
-![смайлик](https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-smailik-vesele-na-prozrachnom-fone-36.jpg)
 ---
 ## **Junior Frontend Developer**
 ---
